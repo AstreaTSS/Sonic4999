@@ -7,5 +7,7 @@ My main project as of right now is [Seraphim](https://github.com/Sonic4999/Serap
 
 Feel free to take a look around. If you need to contact me, I'd prefer Discord (Sonic49#7171), but I also do have a [Twitter](https://twitter.com/SonicTBM) that I check from time to time. Otherwise, enjoy.
 
-![Sonic4999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonic4999&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic4999&layout=compact&exclude_repo=DH-Season-6-Archive&theme=dark)
+
+![Sonic4999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonic4999&show_icons=true&theme=dark)
+
