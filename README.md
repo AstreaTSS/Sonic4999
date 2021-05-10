@@ -11,5 +11,5 @@ Feel free to take a look around. If you need to contact me, I'd prefer Discord (
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sonic4999&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/Sonic4999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic4999&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic4999&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,DH-Season-7-Archive&theme=dark" />
 </a>
